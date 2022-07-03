@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 -->
 Hi 👋, I'm Neeraj Singh
 A passionate Software developer from India
-NeerajSingh04
 
 NeerajSingh04
 
@@ -37,6 +36,3 @@ python-django bootstrap c cplusplus firebase gcp git html5 java javascript css m
 
 NeerajSingh04
 
- NeerajSingh04
-
-NeerajSingh04
