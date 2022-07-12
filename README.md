@@ -29,7 +29,7 @@ NeerajSingh04
 
 
 Connect with me:
-Neeraj_Singh_ neeraj singh
+Neeraj_Singh_
 
 Languages and Tools:
 python-django bootstrap c cplusplus firebase gcp git html5 java javascript css mysql nodejs python react reactnative sass
